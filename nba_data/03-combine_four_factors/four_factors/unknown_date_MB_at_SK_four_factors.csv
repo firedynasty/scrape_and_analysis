@@ -1,0 +1,3 @@
+Game_Date,Game_Date_ISO,Team,Is_Home_Team,Opponent,Team_Score,Opponent_Score,Pace,eFG_PCT,TOV_PCT,ORB_PCT,FT_Rate,ORtg,Won,Home_Won,Opponent_eFG_PCT,Opponent_TOV_PCT,Opponent_ORB_PCT,Opponent_FT_Rate,Opponent_ORtg,Box_Score_URL
+2025-03-22,2025-03-22,Milwaukee Bucks,False,Sacramento Kings,114,108,90.8,.601,9.7,26.8,.155,125.5,1,0,.500,7.4,31.1,.187,118.9,https://www.basketball-reference.com/boxscores/202503220SAC.html
+2025-03-22,2025-03-22,Sacramento Kings,True,Milwaukee Bucks,108,114,90.8,.500,7.4,31.1,.187,118.9,0,1,.601,9.7,26.8,.155,125.5,https://www.basketball-reference.com/boxscores/202503220SAC.html

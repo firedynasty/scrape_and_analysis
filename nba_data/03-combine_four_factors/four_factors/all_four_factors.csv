@@ -1,0 +1,89 @@
+Game_Date,Game_Date_ISO,Team,Is_Home_Team,Opponent,Team_Score,Opponent_Score,Pace,eFG_PCT,TOV_PCT,ORB_PCT,FT_Rate,ORtg,Won,Home_Won,Opponent_eFG_PCT,Opponent_TOV_PCT,Opponent_ORB_PCT,Opponent_FT_Rate,Opponent_ORtg,Box_Score_URL
+2025-03-20,2025-03-20,New York Knicks,False,Charlotte Hornets,98,115,94.1,0.456,6.6,18.0,0.178,104.2,0,0,0.574,11.2,27.5,0.159,122.2,https://www.basketball-reference.com/boxscores/202503200CHO.html
+2025-03-20,2025-03-20,Charlotte Hornets,True,New York Knicks,115,98,94.1,0.574,11.2,27.5,0.159,122.2,1,1,0.456,6.6,18.0,0.178,104.2,https://www.basketball-reference.com/boxscores/202503200CHO.html
+2025-03-20,2025-03-20,Brooklyn Nets,False,Indiana Pacers,99,105,97.4,.426,12.8,23.0,.129,92.0,0,0,.481,20.9,23.3,.333,97.6,https://www.basketball-reference.com/boxscores/202503200IND.html
+2025-03-20,2025-03-20,Indiana Pacers,True,Brooklyn Nets,105,99,97.4,.481,20.9,23.3,.333,97.6,1,1,.426,12.8,23.0,.129,92.0,https://www.basketball-reference.com/boxscores/202503200IND.html
+2025-03-20,2025-03-20,Toronto Raptors,False,Golden State Warriors,114,117,102.3,.635,21.0,20.6,.192,111.5,0,0,.528,12.8,22.9,.244,114.4,https://www.basketball-reference.com/boxscores/202503200GSW.html
+2025-03-20,2025-03-20,Golden State Warriors,True,Toronto Raptors,117,114,102.3,.528,12.8,22.9,.244,114.4,1,1,.635,21.0,20.6,.192,111.5,https://www.basketball-reference.com/boxscores/202503200GSW.html
+2025-03-20,2025-03-20,Chicago Bulls,False,Sacramento Kings,128,116,96.2,.610,12.6,30.8,.267,133.1,1,0,.564,11.1,24.3,.221,120.6,https://www.basketball-reference.com/boxscores/202503200SAC.html
+2025-03-20,2025-03-20,Sacramento Kings,True,Chicago Bulls,116,128,96.2,.564,11.1,24.3,.221,120.6,0,1,.610,12.6,30.8,.267,133.1,https://www.basketball-reference.com/boxscores/202503200SAC.html
+2025-03-20,2025-03-20,Milwaukee Bucks,False,Los Angeles Lakers,118,89,95.4,.542,8.3,21.7,.321,123.7,1,0,.482,19.8,31.1,.122,93.3,https://www.basketball-reference.com/boxscores/202503200LAL.html
+2025-03-20,2025-03-20,Los Angeles Lakers,True,Milwaukee Bucks,89,118,95.4,.482,19.8,31.1,.122,93.3,0,1,.542,8.3,21.7,.321,123.7,https://www.basketball-reference.com/boxscores/202503200LAL.html
+2025-03-21,2025-03-21,Orlando Magic,False,Washington Wizards,120,105,100.1,.568,11.3,28.3,.115,119.9,1,0,.523,13.6,16.0,.161,104.9,https://www.basketball-reference.com/boxscores/202503210WAS.html
+2025-03-21,2025-03-21,Washington Wizards,True,Orlando Magic,105,120,100.1,.523,13.6,16.0,.161,104.9,0,1,.568,11.3,28.3,.115,119.9,https://www.basketball-reference.com/boxscores/202503210WAS.html
+2025-03-21,2025-03-21,Houston Rockets,False,Miami Heat,102,98,93.7,.548,15.4,34.1,.119,108.9,1,0,.589,21.0,13.9,.164,104.6,https://www.basketball-reference.com/boxscores/202503210MIA.html
+2025-03-21,2025-03-21,Miami Heat,True,Houston Rockets,98,102,93.7,.589,21.0,13.9,.164,104.6,0,1,.548,15.4,34.1,.119,108.9,https://www.basketball-reference.com/boxscores/202503210MIA.html
+2025-03-21,2025-03-21,New Orleans Pelicans,False,Minnesota Timberwolves,93,134,96.9,.581,25.1,21.2,.206,95.9,0,0,.646,12.5,27.8,.213,138.2,https://www.basketball-reference.com/boxscores/202503210MIN.html
+2025-03-21,2025-03-21,Minnesota Timberwolves,True,New Orleans Pelicans,134,93,96.9,.646,12.5,27.8,.213,138.2,1,1,.581,25.1,21.2,.206,95.9,https://www.basketball-reference.com/boxscores/202503210MIN.html
+2025-03-21,2025-03-21,Charlotte Hornets,False,Oklahoma City Thunder,106,141,95.5,.581,15.7,15.4,.163,111.0,0,0,.686,8.1,30.3,.128,147.7,https://www.basketball-reference.com/boxscores/202503210OKC.html
+2025-03-21,2025-03-21,Oklahoma City Thunder,True,Charlotte Hornets,141,106,95.5,.686,8.1,30.3,.128,147.7,1,1,.581,15.7,15.4,.163,111.0,https://www.basketball-reference.com/boxscores/202503210OKC.html
+2025-03-21,2025-03-21,Philadelphia 76ers,False,San Antonio Spurs,120,128,101.4,.654,18.2,16.7,.173,118.4,0,0,.635,13.4,25.0,.169,126.3,https://www.basketball-reference.com/boxscores/202503210SAS.html
+2025-03-21,2025-03-21,San Antonio Spurs,True,Philadelphia 76ers,128,120,101.4,.635,13.4,25.0,.169,126.3,1,1,.654,18.2,16.7,.173,118.4,https://www.basketball-reference.com/boxscores/202503210SAS.html
+2025-03-21,2025-03-21,Detroit Pistons,False,Dallas Mavericks,117,123,102.8,.526,11.6,30.6,.143,113.8,0,0,.600,17.3,27.8,.338,119.6,https://www.basketball-reference.com/boxscores/202503210DAL.html
+2025-03-21,2025-03-21,Dallas Mavericks,True,Detroit Pistons,123,117,102.8,.600,17.3,27.8,.338,119.6,1,1,.526,11.6,30.6,.143,113.8,https://www.basketball-reference.com/boxscores/202503210DAL.html
+2025-03-21,2025-03-21,Boston Celtics,False,Utah Jazz,121,99,94.8,.552,9.6,35.6,.144,127.6,1,0,.536,16.0,22.0,.107,104.4,https://www.basketball-reference.com/boxscores/202503210UTA.html
+2025-03-21,2025-03-21,Utah Jazz,True,Boston Celtics,99,121,94.8,.536,16.0,22.0,.107,104.4,0,1,.552,9.6,35.6,.144,127.6,https://www.basketball-reference.com/boxscores/202503210UTA.html
+2025-03-21,2025-03-21,Cleveland Cavaliers,False,Phoenix Suns,112,123,94.4,.537,9.9,32.0,.117,118.6,0,0,.625,13.6,30.0,.087,130.2,https://www.basketball-reference.com/boxscores/202503210PHO.html
+2025-03-21,2025-03-21,Phoenix Suns,True,Cleveland Cavaliers,123,112,94.4,.625,13.6,30.0,.087,130.2,1,1,.537,9.9,32.0,.117,118.6,https://www.basketball-reference.com/boxscores/202503210PHO.html
+2025-03-21,2025-03-21,Denver Nuggets,False,Portland Trail Blazers,109,128,95.4,.559,19.2,32.4,.316,114.3,0,0,.621,14.8,42.9,.230,134.2,https://www.basketball-reference.com/boxscores/202503210POR.html
+2025-03-21,2025-03-21,Portland Trail Blazers,True,Denver Nuggets,128,109,95.4,.621,14.8,42.9,.230,134.2,1,1,.559,19.2,32.4,.316,114.3,https://www.basketball-reference.com/boxscores/202503210POR.html
+2025-03-21,2025-03-21,Memphis Grizzlies,False,Los Angeles Clippers,108,128,99.9,.521,9.0,19.6,.095,108.1,0,0,.686,14.4,6.3,.269,128.1,https://www.basketball-reference.com/boxscores/202503210LAC.html
+2025-03-21,2025-03-21,Los Angeles Clippers,True,Memphis Grizzlies,128,108,99.9,.686,14.4,6.3,.269,128.1,1,1,.521,9.0,19.6,.095,108.1,https://www.basketball-reference.com/boxscores/202503210LAC.html
+2025-03-20,2025-03-20,Brooklyn Nets,False,Indiana Pacers,99,105,97.4,0.426,12.8,23.0,0.129,92.0,0,0,0.481,20.9,23.3,0.333,97.6,https://www.basketball-reference.com/boxscores/202503200IND.html
+2025-03-20,2025-03-20,Indiana Pacers,True,Brooklyn Nets,105,99,97.4,0.481,20.9,23.3,0.333,97.6,1,1,0.426,12.8,23.0,0.129,92.0,https://www.basketball-reference.com/boxscores/202503200IND.html
+2025-03-22,2025-03-22,Golden State Warriors,False,Atlanta Hawks,115,124,98.6,.560,9.5,14.3,.250,116.6,0,0,.657,14.6,23.8,.128,125.7,https://www.basketball-reference.com/boxscores/202503220ATL.html
+2025-03-22,2025-03-22,Atlanta Hawks,True,Golden State Warriors,124,115,98.6,.657,14.6,23.8,.128,125.7,1,1,.560,9.5,14.3,.250,116.6,https://www.basketball-reference.com/boxscores/202503220ATL.html
+2025-03-22,2025-03-22,Washington Wizards,False,New York Knicks,103,122,103.1,.506,17.2,22.2,.159,99.9,0,0,.555,13.5,31.1,.231,118.4,https://www.basketball-reference.com/boxscores/202503220NYK.html
+2025-03-22,2025-03-22,New York Knicks,True,Washington Wizards,122,103,103.1,.555,13.5,31.1,.231,118.4,1,1,.506,17.2,22.2,.159,99.9,https://www.basketball-reference.com/boxscores/202503220NYK.html
+2025-03-22,2025-03-22,Milwaukee Bucks,False,Sacramento Kings,114,108,90.8,.601,9.7,26.8,.155,125.5,1,0,.500,7.4,31.1,.187,118.9,https://www.basketball-reference.com/boxscores/202503220SAC.html
+2025-03-22,2025-03-22,Sacramento Kings,True,Milwaukee Bucks,108,114,90.8,.500,7.4,31.1,.187,118.9,0,1,.601,9.7,26.8,.155,125.5,https://www.basketball-reference.com/boxscores/202503220SAC.html
+2025-03-22,2025-03-22,Chicago Bulls,False,Los Angeles Lakers,146,115,103.3,.682,8.7,27.8,.156,141.4,1,0,.582,18.2,22.0,.188,111.3,https://www.basketball-reference.com/boxscores/202503220LAL.html
+2025-03-22,2025-03-22,Los Angeles Lakers,True,Chicago Bulls,115,146,103.3,.582,18.2,22.0,.188,111.3,0,1,.682,8.7,27.8,.156,141.4,https://www.basketball-reference.com/boxscores/202503220LAL.html
+2025-03-23,2025-03-23,New Orleans Pelicans,False,Detroit Pistons,130,136,97.4,.694,16.4,32.3,.141,133.4,0,0,.622,7.2,28.9,.337,139.6,https://www.basketball-reference.com/boxscores/202503230DET.html
+2025-03-23,2025-03-23,Detroit Pistons,True,New Orleans Pelicans,136,130,97.4,.622,7.2,28.9,.337,139.6,1,1,.694,16.4,32.3,.141,133.4,https://www.basketball-reference.com/boxscores/202503230DET.html
+2025-03-23,2025-03-23,Cleveland Cavaliers,False,Utah Jazz,120,91,101.0,.516,6.0,26.4,.219,118.8,1,0,.449,17.8,26.0,.124,90.1,https://www.basketball-reference.com/boxscores/202503230UTA.html
+2025-03-23,2025-03-23,Utah Jazz,True,Cleveland Cavaliers,91,120,101.0,.449,17.8,26.0,.124,90.1,0,1,.516,6.0,26.4,.219,118.8,https://www.basketball-reference.com/boxscores/202503230UTA.html
+2025-03-23,2025-03-23,Philadelphia 76ers,False,Atlanta Hawks,119,132,101.2,.500,10.8,31.0,.308,117.6,0,0,.649,15.0,29.4,.218,130.4,https://www.basketball-reference.com/boxscores/202503230ATL.html
+2025-03-23,2025-03-23,Atlanta Hawks,True,Philadelphia 76ers,132,119,101.2,.649,15.0,29.4,.218,130.4,1,1,.500,10.8,31.0,.308,117.6,https://www.basketball-reference.com/boxscores/202503230ATL.html
+2025-03-23,2025-03-23,Charlotte Hornets,False,Miami Heat,105,122,95.4,.534,17.7,32.4,.138,110.1,0,0,.646,11.7,20.0,.195,127.9,https://www.basketball-reference.com/boxscores/202503230MIA.html
+2025-03-23,2025-03-23,Miami Heat,True,Charlotte Hornets,122,105,95.4,.646,11.7,20.0,.195,127.9,1,1,.534,17.7,32.4,.138,110.1,https://www.basketball-reference.com/boxscores/202503230MIA.html
+2025-03-23,2025-03-23,Boston Celtics,False,Portland Trail Blazers,129,116,91.3,.676,8.7,28.9,.114,141.2,1,0,.597,11.2,28.9,.125,127.0,https://www.basketball-reference.com/boxscores/202503230POR.html
+2025-03-23,2025-03-23,Portland Trail Blazers,True,Boston Celtics,116,129,91.3,.597,11.2,28.9,.125,127.0,0,1,.676,8.7,28.9,.114,141.2,https://www.basketball-reference.com/boxscores/202503230POR.html
+2025-03-23,2025-03-23,San Antonio Spurs,False,Toronto Raptors,123,89,98.8,.558,12.3,30.2,.314,124.5,1,0,.435,18.4,32.7,.098,90.1,https://www.basketball-reference.com/boxscores/202503230TOR.html
+2025-03-23,2025-03-23,Toronto Raptors,True,San Antonio Spurs,89,123,98.8,.435,18.4,32.7,.098,90.1,0,1,.558,12.3,30.2,.314,124.5,https://www.basketball-reference.com/boxscores/202503230TOR.html
+2025-03-23,2025-03-23,Denver Nuggets,False,Houston Rockets,116,111,92.9,.563,8.4,25.6,.207,124.9,1,0,.500,5.5,32.7,.247,119.5,https://www.basketball-reference.com/boxscores/202503230HOU.html
+2025-03-23,2025-03-23,Houston Rockets,True,Denver Nuggets,111,116,92.9,.500,5.5,32.7,.247,119.5,0,1,.563,8.4,25.6,.207,124.9,https://www.basketball-reference.com/boxscores/202503230HOU.html
+2025-03-23,2025-03-23,Oklahoma City Thunder,False,Los Angeles Clippers,103,101,95.4,.467,8.2,21.3,.185,108.0,1,0,.476,12.9,25.6,.280,105.9,https://www.basketball-reference.com/boxscores/202503230LAC.html
+2025-03-23,2025-03-23,Los Angeles Clippers,True,Oklahoma City Thunder,101,103,95.4,.476,12.9,25.6,.280,105.9,0,1,.467,8.2,21.3,.185,108.0,https://www.basketball-reference.com/boxscores/202503230LAC.html
+2025-03-24,2025-03-24,Minnesota Timberwolves,False,Indiana Pacers,103,119,101.7,.533,15.1,19.6,.066,101.2,0,0,.559,10.7,20.0,.149,117.0,https://www.basketball-reference.com/boxscores/202503240IND.html
+2025-03-24,2025-03-24,Indiana Pacers,True,Minnesota Timberwolves,119,103,101.7,.559,10.7,20.0,.149,117.0,1,1,.533,15.1,19.6,.066,101.2,https://www.basketball-reference.com/boxscores/202503240IND.html
+2025-03-24,2025-03-24,Los Angeles Lakers,False,Orlando Magic,106,118,89.8,.525,10.6,26.2,.275,118.1,0,0,.582,8.6,30.0,.224,131.4,https://www.basketball-reference.com/boxscores/202503240ORL.html
+2025-03-24,2025-03-24,Orlando Magic,True,Los Angeles Lakers,118,106,89.8,.582,8.6,30.0,.224,131.4,1,1,.525,10.6,26.2,.275,118.1,https://www.basketball-reference.com/boxscores/202503240ORL.html
+2025-03-24,2025-03-24,Toronto Raptors,False,Washington Wizards,112,104,106.1,.455,9.6,30.4,.198,105.5,1,0,.466,14.3,17.3,.264,98.0,https://www.basketball-reference.com/boxscores/202503240WAS.html
+2025-03-24,2025-03-24,Washington Wizards,True,Toronto Raptors,104,112,106.1,.466,14.3,17.3,.264,98.0,0,1,.455,9.6,30.4,.198,105.5,https://www.basketball-reference.com/boxscores/202503240WAS.html
+2025-03-24,2025-03-24,Dallas Mavericks,False,Brooklyn Nets,120,101,93.1,.621,10.5,28.2,.138,128.9,1,0,.583,18.4,23.1,.128,108.5,https://www.basketball-reference.com/boxscores/202503240BRK.html
+2025-03-24,2025-03-24,Brooklyn Nets,True,Dallas Mavericks,101,120,93.1,.583,18.4,23.1,.128,108.5,0,1,.621,10.5,28.2,.138,128.9,https://www.basketball-reference.com/boxscores/202503240BRK.html
+2025-03-24,2025-03-24,Philadelphia 76ers,False,New Orleans Pelicans,99,112,93.0,.471,11.2,24.0,.195,106.4,0,0,.580,15.5,34.2,.126,120.4,https://www.basketball-reference.com/boxscores/202503240NOP.html
+2025-03-24,2025-03-24,New Orleans Pelicans,True,Philadelphia 76ers,112,99,93.0,.580,15.5,34.2,.126,120.4,1,1,.471,11.2,24.0,.195,106.4,https://www.basketball-reference.com/boxscores/202503240NOP.html
+2025-03-24,2025-03-24,Chicago Bulls,False,Denver Nuggets,129,119,99.1,.588,8.9,25.5,.242,130.2,1,0,.531,10.0,35.4,.165,120.1,https://www.basketball-reference.com/boxscores/202503240DEN.html
+2025-03-24,2025-03-24,Denver Nuggets,True,Chicago Bulls,119,129,99.1,.531,10.0,35.4,.165,120.1,0,1,.588,8.9,25.5,.242,130.2,https://www.basketball-reference.com/boxscores/202503240DEN.html
+2025-03-24,2025-03-24,Milwaukee Bucks,False,Phoenix Suns,106,108,90.8,.518,6.8,19.1,.241,116.7,0,0,.561,15.1,34.1,.195,118.9,https://www.basketball-reference.com/boxscores/202503240PHO.html
+2025-03-24,2025-03-24,Phoenix Suns,True,Milwaukee Bucks,108,106,90.8,.561,15.1,34.1,.195,118.9,1,1,.518,6.8,19.1,.241,116.7,https://www.basketball-reference.com/boxscores/202503240PHO.html
+2025-03-24,2025-03-24,Boston Celtics,False,Sacramento Kings,113,95,96.4,.561,9.2,21.3,.133,117.2,1,0,.500,14.2,18.6,.105,98.5,https://www.basketball-reference.com/boxscores/202503240SAC.html
+2025-03-24,2025-03-24,Sacramento Kings,True,Boston Celtics,95,113,96.4,.500,14.2,18.6,.105,98.5,0,1,.561,9.2,21.3,.133,117.2,https://www.basketball-reference.com/boxscores/202503240SAC.html
+2025-03-25,2025-03-25,Orlando Magic,False,Charlotte Hornets,111,104,95.2,.528,10.1,30.2,.178,116.6,1,0,.500,10.2,17.8,.182,109.2,https://www.basketball-reference.com/boxscores/202503250CHO.html
+2025-03-25,2025-03-25,Charlotte Hornets,True,Orlando Magic,104,111,95.2,.500,10.2,17.8,.182,109.2,0,1,.528,10.1,30.2,.178,116.6,https://www.basketball-reference.com/boxscores/202503250CHO.html
+2025-03-25,2025-03-25,San Antonio Spurs,False,Detroit Pistons,96,122,91.8,.440,9.9,29.6,.176,104.6,0,0,.660,11.0,19.4,.244,132.9,https://www.basketball-reference.com/boxscores/202503250DET.html
+2025-03-25,2025-03-25,Detroit Pistons,True,San Antonio Spurs,122,96,91.8,.660,11.0,19.4,.244,132.9,1,1,.440,9.9,29.6,.176,104.6,https://www.basketball-reference.com/boxscores/202503250DET.html
+2025-03-25,2025-03-25,Golden State Warriors,False,Miami Heat,86,112,90.3,.452,15.1,29.2,.133,95.3,0,0,.669,17.9,25.0,.117,124.1,https://www.basketball-reference.com/boxscores/202503250MIA.html
+2025-03-25,2025-03-25,Miami Heat,True,Golden State Warriors,112,86,90.3,.669,17.9,25.0,.117,124.1,1,1,.452,15.1,29.2,.133,95.3,https://www.basketball-reference.com/boxscores/202503250MIA.html
+2025-03-25,2025-03-25,Dallas Mavericks,False,New York Knicks,113,128,102.9,.575,15.0,13.9,.263,109.8,0,0,.652,13.4,15.2,.135,124.4,https://www.basketball-reference.com/boxscores/202503250NYK.html
+2025-03-25,2025-03-25,New York Knicks,True,Dallas Mavericks,128,113,102.9,.652,13.4,15.2,.135,124.4,1,1,.575,15.0,13.9,.263,109.8,https://www.basketball-reference.com/boxscores/202503250NYK.html
+2025-03-25,2025-03-25,Atlanta Hawks,False,Houston Rockets,114,121,101.2,.490,11.3,32.7,.126,112.6,0,0,.511,13.1,36.8,.280,119.5,https://www.basketball-reference.com/boxscores/202503250HOU.html
+2025-03-25,2025-03-25,Houston Rockets,True,Atlanta Hawks,121,114,101.2,.511,13.1,36.8,.280,119.5,1,1,.490,11.3,32.7,.126,112.6,https://www.basketball-reference.com/boxscores/202503250HOU.html
+2025-03-25,2025-03-25,Memphis Grizzlies,False,Utah Jazz,140,103,94.9,.633,7.8,41.5,.163,147.6,1,0,.545,13.8,10.3,.231,108.6,https://www.basketball-reference.com/boxscores/202503250UTA.html
+2025-03-25,2025-03-25,Utah Jazz,True,Memphis Grizzlies,103,140,94.9,.545,13.8,10.3,.231,108.6,0,1,.633,7.8,41.5,.163,147.6,https://www.basketball-reference.com/boxscores/202503250UTA.html
+2025-03-25,2025-03-25,Cleveland Cavaliers,False,Portland Trail Blazers,122,111,96.3,.614,12.8,25.7,.159,126.6,1,0,.485,8.4,37.3,.140,115.2,https://www.basketball-reference.com/boxscores/202503250POR.html
+2025-03-25,2025-03-25,Portland Trail Blazers,True,Cleveland Cavaliers,111,122,96.3,.485,8.4,37.3,.140,115.2,0,1,.614,12.8,25.7,.159,126.6,https://www.basketball-reference.com/boxscores/202503250POR.html
+2025-03-25,2025-03-25,Oklahoma City Thunder,False,Sacramento Kings,121,105,100.7,.640,15.8,16.2,.195,120.2,1,0,.533,10.3,9.8,.088,104.3,https://www.basketball-reference.com/boxscores/202503250SAC.html
+2025-03-25,2025-03-25,Sacramento Kings,True,Oklahoma City Thunder,105,121,100.7,.533,10.3,9.8,.088,104.3,0,1,.640,15.8,16.2,.195,120.2,https://www.basketball-reference.com/boxscores/202503250SAC.html

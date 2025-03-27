@@ -1,0 +1,3 @@
+Game_Date,Game_Date_ISO,Team,Is_Home_Team,Opponent,Team_Score,Opponent_Score,Pace,eFG_PCT,TOV_PCT,ORB_PCT,FT_Rate,ORtg,Won,Home_Won,Opponent_eFG_PCT,Opponent_TOV_PCT,Opponent_ORB_PCT,Opponent_FT_Rate,Opponent_ORtg,Box_Score_URL
+2025-03-21,2025-03-21,Philadelphia 76ers,False,San Antonio Spurs,120,128,101.4,.654,18.2,16.7,.173,118.4,0,0,.635,13.4,25.0,.169,126.3,https://www.basketball-reference.com/boxscores/202503210SAS.html
+2025-03-21,2025-03-21,San Antonio Spurs,True,Philadelphia 76ers,128,120,101.4,.635,13.4,25.0,.169,126.3,1,1,.654,18.2,16.7,.173,118.4,https://www.basketball-reference.com/boxscores/202503210SAS.html

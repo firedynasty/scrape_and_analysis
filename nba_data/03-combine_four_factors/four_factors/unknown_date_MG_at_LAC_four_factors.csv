@@ -1,0 +1,3 @@
+Game_Date,Game_Date_ISO,Team,Is_Home_Team,Opponent,Team_Score,Opponent_Score,Pace,eFG_PCT,TOV_PCT,ORB_PCT,FT_Rate,ORtg,Won,Home_Won,Opponent_eFG_PCT,Opponent_TOV_PCT,Opponent_ORB_PCT,Opponent_FT_Rate,Opponent_ORtg,Box_Score_URL
+2025-03-21,2025-03-21,Memphis Grizzlies,False,Los Angeles Clippers,108,128,99.9,.521,9.0,19.6,.095,108.1,0,0,.686,14.4,6.3,.269,128.1,https://www.basketball-reference.com/boxscores/202503210LAC.html
+2025-03-21,2025-03-21,Los Angeles Clippers,True,Memphis Grizzlies,128,108,99.9,.686,14.4,6.3,.269,128.1,1,1,.521,9.0,19.6,.095,108.1,https://www.basketball-reference.com/boxscores/202503210LAC.html
